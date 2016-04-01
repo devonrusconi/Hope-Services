@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/devonrusconi/Desktop/AndroidStudioProjects/Hope/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/Users/devonrusconi/Desktop/AndroidStudioProjects/Hope/app/src/main/res/menu/global.xml"
+    },
+    {
+        "merged": "/Users/devonrusconi/Desktop/AndroidStudioProjects/Hope/app/build/intermediates/res/merged/debug/menu/my.xml",
+        "source": "/Users/devonrusconi/Desktop/AndroidStudioProjects/Hope/app/src/main/res/menu/my.xml"
+    }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Early Intervention Program (Homestart)"
+        android:id="@+id/textView16"
+        android:layout_gravity="center_horizontal"
+        android:background="#ff55a1f6"
+        android:textColor="#ffffffff"
+        android:textSize="25dp"
+        android:textIsSelectable="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text=" Our Early Intervention Program serves children with:      Social emotional delays     Cognitive delays      Neurological disorders     Genetic disorders      Motor or speech delays     Feeding difficulties/failure to thrive      Medically fragile     Prematurity/low birth weight  "
+        android:id="@+id/textView17"
+        android:layout_weight="0.40" />
+</LinearLayout>

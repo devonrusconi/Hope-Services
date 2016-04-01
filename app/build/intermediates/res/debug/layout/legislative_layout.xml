@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#dddd4700">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Choose a District:"
+        android:id="@+id/textView22"
+        android:textSize="40dp"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ff6d137a"
+        android:background="#ffffb5b4" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Salinas"
+        android:id="@+id/button3"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="San Jose"
+        android:id="@+id/button4"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hollister"
+        android:id="@+id/button5"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fremont"
+        android:id="@+id/button6"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Southern California"
+        android:id="@+id/button7"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout><!-- From: file:/C:/Users/Devon/AndroidStudioProjects/Hope/app/src/main/res/layout/legislative_layout.xml -->

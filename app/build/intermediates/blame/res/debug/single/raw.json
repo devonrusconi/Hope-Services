@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/devonrusconi/Desktop/AndroidStudioProjects/Hope/app/build/intermediates/res/merged/debug/raw/hope2.mp4",
+        "source": "/Users/devonrusconi/Desktop/AndroidStudioProjects/Hope/app/src/main/res/raw/hope2.mp4"
+    },
+    {
+        "merged": "/Users/devonrusconi/Desktop/AndroidStudioProjects/Hope/app/build/intermediates/res/merged/debug/raw/hope3.mp4",
+        "source": "/Users/devonrusconi/Desktop/AndroidStudioProjects/Hope/app/src/main/res/raw/hope3.mp4"
+    },
+    {
+        "merged": "/Users/devonrusconi/Desktop/AndroidStudioProjects/Hope/app/build/intermediates/res/merged/debug/raw/hope1.mp4",
+        "source": "/Users/devonrusconi/Desktop/AndroidStudioProjects/Hope/app/src/main/res/raw/hope1.mp4"
+    }
+]
